@@ -15,3 +15,7 @@
   - Contribute more to open source projects 🌏
 - ⚡ Fun fact: 1 commit, 1 AC, and workout makes my day
 
+### Recent posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

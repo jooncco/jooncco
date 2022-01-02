@@ -1,8 +1,5 @@
 ### Hi there, I'm JunHa - aka [jooncco](https://jooncco.com/profile) 👋 
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
 - 🔭 I’m currently getting myself updated up to modern `Java 11`☕️.
 - 🧜 I’m currently diving deeper into `Spring framework`🌱.
 - 💻 Looking for an open source project to contribute.
@@ -15,7 +12,7 @@
   - Contribute more to open source projects 🌏
 - ⚡ Fun fact: 1 commit, 1 AC, and workout makes my day
 
-### Recent posts:
+### Latest posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)

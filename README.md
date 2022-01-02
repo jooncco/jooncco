@@ -7,11 +7,11 @@
 - 🧜 I’m currently diving deeper into `Spring framework`🌱.
 - 💻 Looking for an open source project to contribute.
 - 🥅 2022 Goals:
-  - AWS certified developer associate
-  - AWS certified solutions architect associate
-  - Codeforces Expert🦋
-  - Reading 12 books📔
-  - 1 mountain climbing every 3 months⛰
-  - Contribute more to open source projects🌏
+  - AWS certified developer associate 🏅
+  - AWS certified solutions architect associate 🏅
+  - Codeforces Expert 🦋
+  - Reading 12 books 📔
+  - 1 mountain climbing every 3 months ⛰
+  - Contribute more to open source projects 🌏
 - ⚡ Fun fact: 1 commit, 1 AC, and workout makes my day
 

@@ -14,7 +14,7 @@
   - Contribute more to open source projects 🌏
 - ⚡ Fun fact: I literally LOVE to code. 1 commit, 1 AC, and workout makes my day
 
-### 📝 Latest posts:
+### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)
@@ -26,7 +26,7 @@
 
 ➡️ [more blog posts](https://jooncco.com)
 
-### ⚡ Recent activity:
+### ⚡ Recent Activity:
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->

@@ -10,7 +10,7 @@
   - Reading 12 books 📔
   - 1 mountain climbing every 3 months ⛰
   - Contribute more to open source projects 🌏
-- ⚡ Fun fact: 1 commit, 1 AC, and workout makes my day
+- ⚡ Fun fact: I literally LOVE to code. 1 commit, 1 AC, and workout makes my day
 
 ## Latest posts:
 

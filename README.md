@@ -1,4 +1,4 @@
-### Hi there, I'm JunHa - aka [jooncco](https://jooncco.com/profile) 👋 
+## Hi there, I'm JunHa - aka [jooncco](https://jooncco.com/profile) 👋 
 
 - 🔭 I’m currently getting myself updated up to modern `Java 11`☕️.
 - 🧜 I’m currently diving deeper into `Spring framework`🌱.
@@ -12,7 +12,7 @@
   - Contribute more to open source projects 🌏
 - ⚡ Fun fact: 1 commit, 1 AC, and workout makes my day
 
-### Latest posts:
+## Latest posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)

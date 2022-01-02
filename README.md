@@ -18,4 +18,9 @@
 ### Recent posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)
+- [[LeetCode] 82. Remove Duplicates from Sorted List II 풀이](https://jooncco.com/leetcode-82/)
+- [[LeetCode] 153. Find Minimum in Rotated Sorted Array 풀이](https://jooncco.com/leetcode-153/)
+- [[LeetCode] 162. Find Peak Element 풀이](https://jooncco.com/leetcode-162/)
+- [[LeetCode] 34. Find First and Last Position of Element in Sorted Array 풀이](https://jooncco.com/leetcode-34/)
 <!-- BLOG-POST-LIST:END -->

@@ -9,15 +9,21 @@
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅
   - Codeforces Expert 🦋
-  - Reading 12 books 📔
-  - 1 mountain climbing every 3 months ⛰
   - Contribute more to open source projects 🌏
+  - Reading 12 books 📔
+  - Gaining up to 177 pounds 🏋️
+  - 1 mountain climbing every 3 months ⛰
 - 🤖 Fun fact: I literally LOVE to code. 1 commit, 1 AC, and workout makes my day
 
 ### 📫 Reach Me through:
 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jooncco)
-[![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/jooncco)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jooncco) [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/jooncco)
+
+### ⚡ Recent Activity:
+
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#31](https://github.com/codeSTACKr/codeSTACKr/issues/31) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+<!--END_SECTION:activity-->
 
 ### 📕 Latest Blog Posts:
 
@@ -35,9 +41,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://jooncco.com)
-
-### ⚡ Recent Activity:
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/codeSTACKr/codeSTACKr/issues/31) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->

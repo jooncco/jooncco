@@ -1,6 +1,6 @@
 # Hi there, I'm JunHa - aka [jooncco](https://jooncco.com/profile) 👋 
 
-[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&url=https%3A%2F%2Fjooncco.com)](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&url=https%3A%2F%2Fjooncco.com)
+[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&url=https%3A%2F%2Fjooncco.com)](https://jooncco.com)
 
 - ☕️ I’m currently getting myself updated up to `Java 11`.
 - 🌱 I’m currently diving deeper into `Spring boot`.

@@ -27,6 +27,11 @@
 - [[LeetCode] 153. Find Minimum in Rotated Sorted Array 풀이](https://jooncco.com/leetcode-153/)
 - [[LeetCode] 162. Find Peak Element 풀이](https://jooncco.com/leetcode-162/)
 - [[LeetCode] 34. Find First and Last Position of Element in Sorted Array 풀이](https://jooncco.com/leetcode-34/)
+- [[Codeforces] 1611B. Team Composition: Programmers and Mathematicians 풀이](https://jooncco.com/codeforces-1611B/)
+- [[Codeforces] 1614B. Divan and a New Project 풀이](https://jooncco.com/codeforces-1614B/)
+- [[LeetCode] 1. Two Sum 풀이](https://jooncco.com/leetcode-1/)
+- [[LeetCode] 5. Longest Palindromic Substring 풀이](https://jooncco.com/leetcode-5/)
+- [[LeetCode] 53. Maximum Subarray 풀이](https://jooncco.com/leetcode-53/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://jooncco.com)

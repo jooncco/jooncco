@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&url=https%3A%2F%2Fjooncco.com)](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&url=https%3A%2F%2Fjooncco.com)
 
-- ☕️ I’m currently getting myself updated up to modern `Java 11`.
+- ☕️ I’m currently getting myself updated up to `Java 11`.
 - 🌱 I’m currently diving deeper into `Spring boot`.
 - 💻 Looking for an open source project to contribute.
 - 🥅 2022 Goals:

@@ -40,4 +40,4 @@
 - [[LeetCode] 53. Maximum Subarray 풀이](https://jooncco.com/leetcode-53/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts](https://jooncco.com)
+➡️ [more ...](https://jooncco.com)

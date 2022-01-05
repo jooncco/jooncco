@@ -1,9 +1,12 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa - aka [jooncco](https://jooncco.com/profile)
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa - aka [jooncco](https://jooncco.com/profile)
 
 [![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&url=https%3A%2F%2Fjooncco.com)](https://jooncco.com)
 
+### 🙋🏼‍♂️ Looking for a PASSIONATE & GENUINE back-end developer?
+
+- 📈 It's my **3rd** year as a back-end developer.
 - ☕️ I’m currently getting myself updated up to `Java 11`.
-- 🌱 I’m currently diving deeper into `Spring boot`.
+- 🌱 I’m currently diving deeper into `Spring Boot`.
 - 💻 Looking for an open source project to contribute.
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
@@ -13,11 +16,13 @@
   - Reading 12 books 📔
   - Gaining up to 177 pounds 🏋️
   - 1 mountain climbing every 3 months ⛰
-- 🤖 Fun fact: I literally LOVE to code. 1 commit, 1 AC, and workout makes my day
+- 🤖 Fun fact: I literally LOVE to code. 1 **commit**, 1 **AC**, and **workout** makes my day !
 
 ### 📫 Reach Me through:
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jooncco) [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/jooncco)
+
+<br />
 
 ### ⚡ Recent Activity:
 

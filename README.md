@@ -1,7 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa - aka [jooncco](https://jooncco.com/profile)
 
-[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&url=https%3A%2F%2Fjooncco.com)](https://jooncco.com)
-
 ### 🙋🏼‍♂️ Looking for a PASSIONATE & GENUINE back-end developer?
 
 - 📈 It's my **3rd** year as a back-end developer.
@@ -17,6 +15,9 @@
   - Gaining up to 177 pounds 🏋️
   - 1 mountain climbing every 3 months ⛰
 - 🤖 Fun fact: I literally LOVE to code. 1 **commit**, 1 **AC**, and **workout** makes my day !
+
+### 🛠 Dev Skills
+[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&url=https://jooncco.com/profile)](https://jooncco.com/profile)
 
 ### 📫 Reach Me through:
 

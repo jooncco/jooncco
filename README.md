@@ -11,9 +11,9 @@
   - AWS certified solutions architect associate 🏅
   - Codeforces Expert 🦋
   - Contribute more to open source projects 🌏
-  - Reading 12 books 📔
-  - Gaining up to 177 pounds 🏋️
-  - 1 mountain climbing every 3 months ⛰
+  - Read 12 books. No more books as ornaments 📔
+  - Gain weight up to 177 pounds 🏋️
+  - Climb mountain every 3 months ⛰
 - 🤖 Fun fact: I literally LOVE to code. 1 **commit**, 1 **AC**, and **workout** makes my day !
 
 ### 🛠 Dev Skills

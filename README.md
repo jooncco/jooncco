@@ -2,7 +2,7 @@
 
 ### 🙋🏼‍♂️ Looking for a PASSIONATE & GENUINE back-end developer?
 
-- 📈 It's my **3rd** year as a back-end developer.
+- 📈 2022 is my **3rd** year as a back-end developer.
 - ☕️ I’m currently getting myself updated up to `Java 11`.
 - 🌱 I’m currently diving deeper into `Spring Boot`.
 - 💻 Looking for an open source project to contribute.

@@ -32,7 +32,7 @@
 ### ⚡ Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/codeSTACKr/codeSTACKr/issues/31) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. ❗️ Closed issue [#31](https://github.com/codeSTACKr/codeSTACKr/issues/31) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
 ### 📕 Latest Blog Posts:

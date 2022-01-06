@@ -4,7 +4,9 @@
 
 - 📈 2022 is my **3rd** year as a back-end developer.
 - ☕️ I’m currently getting myself updated up to `Java 11`.
-- 🌱 I’m currently diving deeper into `Spring Boot`.
+- 🌱 I’m currently adding new features to my [blog](https://jooncco.com).
+  - Internationalizing thorugh i18next.
+  - Career section in profile page.
 - 💻 Looking for an open source project to contribute.
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
@@ -15,6 +17,8 @@
   - Gain weight up to 177 pounds 🏋️
   - Climb mountain every 3 months ⛰
 - 🤖 Fun fact: I literally LOVE to code. 1 **commit**, 1 **AC**, and **workout** makes my day !
+<!-- - ☕️ I’m currently getting myself updated up to `Java 11`. -->
+<!-- - 🌱 I’m currently diving deeper into `Spring Boot`. -->
 
 ### 🛠 Dev Skills
 [![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&url=https://jooncco.com/profile)](https://jooncco.com/profile)

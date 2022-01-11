@@ -21,7 +21,7 @@
 <!-- - 🌱 I’m currently diving deeper into `Spring Boot`. -->
 
 ### 🛠 Dev Skills
-[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&url=https://jooncco.com/profile)](https://jooncco.com/profile)
+[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&down_color=red&down_message=jooncco.com&url=https://jooncco.com/profile)](https://jooncco.com/profile)
 
 ### 📫 Reach Me through:
 

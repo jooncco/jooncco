@@ -6,7 +6,7 @@
 - ☕️ I’m currently getting myself updated up to `Java 11`.
 - 🌱 I’m currently adding new features to my [blog](https://jooncco.com).
   - Internationalizing thorugh i18next.
-  - Career section in profile page.
+  - Career section in profile page. ✅
 - 💻 Looking for an open source project to contribute.
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅

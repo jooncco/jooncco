@@ -17,8 +17,6 @@
   - Gain weight up to 177 pounds 🏋️
   - Climb mountain every 3 months ⛰
 - 🤖 Fun fact: I literally LOVE to code. 1 **commit**, 1 **AC**, and **workout** makes my day !
-<!-- - ☕️ I’m currently getting myself updated up to `Java 11`. -->
-<!-- - 🌱 I’m currently diving deeper into `Spring Boot`. -->
 
 ### 🛠 Dev Skills
 [![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&down_color=red&down_message=jooncco.com&url=https://jooncco.com/profile)](https://jooncco.com/profile)

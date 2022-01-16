@@ -1,6 +1,6 @@
 ## Oh hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa - aka [jooncco](https://jooncco.com/profile)
 
-### 🙋🏼‍♂️ Looking for a GENUINE back-end developer?
+### 🙋🏼‍♂️ Looking for a `genuine` back-end developer?
 
 - 📈 2022 is my **3rd** year as a back-end developer.
 - ☕️ I’m currently getting myself updated up to `Java 11`.

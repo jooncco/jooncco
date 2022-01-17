@@ -36,6 +36,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Git] 명령어 Cheat Sheet &lpar;cumulative&rpar;](https://jooncco.com/git/git-command-archive/)
 - [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)
 - [[LeetCode] 82. Remove Duplicates from Sorted List II 풀이](https://jooncco.com/leetcode-82/)
 - [[LeetCode] 153. Find Minimum in Rotated Sorted Array 풀이](https://jooncco.com/leetcode-153/)
@@ -45,7 +46,6 @@
 - [[Codeforces] 1614B. Divan and a New Project 풀이](https://jooncco.com/codeforces-1614B/)
 - [[LeetCode] 1. Two Sum 풀이](https://jooncco.com/leetcode-1/)
 - [[LeetCode] 5. Longest Palindromic Substring 풀이](https://jooncco.com/leetcode-5/)
-- [[LeetCode] 53. Maximum Subarray 풀이](https://jooncco.com/leetcode-53/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

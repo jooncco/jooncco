@@ -4,10 +4,9 @@
 
 - 🧑‍💻 2022 is my **3rd** year as a back-end developer.
 - ☕️ I’m currently getting myself updated up to Java 11.
-- 🌱 I’m currently adding new features to my [blog](https://jooncco.com).
+- 🌱 I’m currently adding new features to my **[blog](https://jooncco.com)**.
   - Internationalizing thorugh i18next.
-  - Career section in profile page. ✅
-- 🌏 Looking for an open source project to contribute.
+- 🌏 Current open source project that I'm working on: **[codehub](https://github.com/jooncco/codehub)**
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅

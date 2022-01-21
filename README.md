@@ -6,7 +6,12 @@
 - ☕️ I’m currently getting myself updated up to Java 11.
 - 🌱 I’m currently adding new features to my **[blog](https://jooncco.com)**.
   - Internationalizing thorugh i18next.
-- 🌏 Current open source project that I'm working on: **[codehub](https://github.com/jooncco/codehub)**
+- 🌐 Current fucus: **[codehub](https://github.com/jooncco/codehub)**
+- 🤖 Fun fact: a **polyglot** who has 2 mother tongues(C++, Java) is what I'm after.
+- ⚡️ Rules:
+  -  commits: **twice** a day
+  -  algorithms: **1** AC a day
+  -  workout: **4** times a week
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅
@@ -14,8 +19,7 @@
   - Contribute more to open source projects 🌏
   - Read 12 books. Books are not for ornament 📔
   - Gain weight up to 177 pounds 🏋️
-  - Climb mountain every 3 months ⛰
-- 🤖 Fun fact: I literally LOVE to code. 1 **commit**, 1 **AC**, and **workout** makes my day !
+  - Mountain climbing every 3 months ⛰
 
 ### 🛠 Dev Skills
 [![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&down_color=red&down_message=jooncco.com&url=https://jooncco.com/profile)](https://jooncco.com/profile)

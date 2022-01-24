@@ -9,7 +9,7 @@
 - 🌐 Current fucus: **[codehub](https://github.com/jooncco/codehub)**
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(C++, Java) is what I'm after.
 - ⚡️ Rules:
-  -  commits: **twice** a day
+  -  contributions: **twice** a day
   -  algorithms: **1** AC a day
   -  workout: **4** times a week
 - 🥅 2022 Goals:

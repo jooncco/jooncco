@@ -6,7 +6,7 @@
 - ☕️ I’m currently getting myself updated up to Java 11.
 - 🌱 I’m currently adding new features to my **[blog](https://jooncco.com)**.
   - Internationalizing thorugh i18next.
-- 🌐 Current fucus: **[codehub](https://github.com/jooncco/codehub)**
+- 🌐 Current fucus: DDD/MSA study
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
 - ⚡️ Rules:
   -  contributions: **twice** a day

@@ -15,7 +15,7 @@
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅
-  - Successfully launching [codehub](https://github.com/jooncco/codehub) 💯
+  - Successfully launching [codehub](https://github.com/users/jooncco/projects/1) 💯
   - Codeforces Expert 🦋
   - Contribute more to open source projects 🌏
   - Read 12 books. Books are not for ornament 📔

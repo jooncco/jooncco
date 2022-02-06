@@ -40,6 +40,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Git] 변경사항 취소하기](https://jooncco.com/git/git-undoing-changes/)
 - [[Git] 명령어 Cheat Sheet &lpar;cumulative&rpar;](https://jooncco.com/git/git-command-archive/)
 - [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)
 - [[LeetCode] 82. Remove Duplicates from Sorted List II 풀이](https://jooncco.com/leetcode-82/)
@@ -49,7 +50,6 @@
 - [[Codeforces] 1611B. Team Composition: Programmers and Mathematicians 풀이](https://jooncco.com/codeforces-1611B/)
 - [[Codeforces] 1614B. Divan and a New Project 풀이](https://jooncco.com/codeforces-1614B/)
 - [[LeetCode] 1. Two Sum 풀이](https://jooncco.com/leetcode-1/)
-- [[LeetCode] 5. Longest Palindromic Substring 풀이](https://jooncco.com/leetcode-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

@@ -33,9 +33,9 @@
 
 ### ⚡ Recent Activity:
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. ❗️ Closed issue [#31](https://github.com/codeSTACKr/codeSTACKr/issues/31) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### 📕 Latest Blog Posts:
 

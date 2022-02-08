@@ -34,10 +34,10 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 📔 Created new repository [jooncco/codehub-account](https://github.com/jooncco/codehub-account)
-3. 📔 Created new repository [jooncco/codehub-account](https://github.com/jooncco/codehub-account)
-4. 📔 Created new repository [jooncco/edu-grader](https://github.com/jooncco/edu-grader)
+1. 📔 Created new repository [kourseplate/about](https://github.com/kourseplate/about)
+2. 📔 Created new repository [kourseplate/kourseplate](https://github.com/kourseplate/kourseplate)
+3. 📔 Created new repository [kourseplate/api-gateway](https://github.com/kourseplate/api-gateway)
+4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 

@@ -34,10 +34,10 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [apge-2](https://github.com/kourseplate/about/wiki/apge-2) in [kourseplate/about](https://github.com/kourseplate/about)
-2. 📖 Created new wiki page [Home](https://github.com/kourseplate/about/wiki/Home) in [kourseplate/about](https://github.com/kourseplate/about)
-3. 📔 Created new repository [kourseplate/about](https://github.com/kourseplate/about)
-4. 📔 Created new repository [kourseplate/kourseplate](https://github.com/kourseplate/kourseplate)
+1. 📔 Created new repository [kourseplate/account](https://github.com/kourseplate/account)
+2. 📖 Created new wiki page [apge-2](https://github.com/kourseplate/about/wiki/apge-2) in [kourseplate/about](https://github.com/kourseplate/about)
+3. 📖 Created new wiki page [Home](https://github.com/kourseplate/about/wiki/Home) in [kourseplate/about](https://github.com/kourseplate/about)
+4. 📔 Created new repository [kourseplate/about](https://github.com/kourseplate/about)
 <!--RECENT_ACTIVITY:end-->
 
 

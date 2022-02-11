@@ -44,6 +44,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[LeetCode] 2166. Design Bitset explained](https://jooncco.com/leetcode-2166/)
 - [[LeetCode] 2167. Minimum Time to Remove All Cars Containing Illegal Goods explained](https://jooncco.com/leetcode-2167/)
 - [[Git] 변경사항 취소하기](https://jooncco.com/git/git-undoing-changes/)
 - [[Git] 명령어 Cheat Sheet &lpar;cumulative&rpar;](https://jooncco.com/git/git-command-archive/)
@@ -53,7 +54,6 @@
 - [[LeetCode] 162. Find Peak Element 풀이](https://jooncco.com/leetcode-162/)
 - [[LeetCode] 34. Find First and Last Position of Element in Sorted Array 풀이](https://jooncco.com/leetcode-34/)
 - [[Codeforces] 1611B. Team Composition: Programmers and Mathematicians 풀이](https://jooncco.com/codeforces-1611B/)
-- [[Codeforces] 1614B. Divan and a New Project 풀이](https://jooncco.com/codeforces-1614B/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

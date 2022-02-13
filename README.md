@@ -23,7 +23,7 @@
   - Mountain climbing every 3 months ⛰
 
 ### 🛠 Dev Skills
-[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com&down_color=red&down_message=jooncco.com&url=https://jooncco.com/profile)](https://jooncco.com/profile#dev-skills-)
+[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&down_color=red&down_message=jooncco.com/profile&url=https://jooncco.com/profile)](https://jooncco.com/profile#dev-skills-)
 
 ### 📫 Reach Me through:
 

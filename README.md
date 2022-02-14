@@ -8,10 +8,11 @@
   - Internationalizing thorugh i18next.
 - 🌐 Current fucus: DDD/MSA study
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
-- ⚡️ Rules:
+- ⚡️ Routine:
+  -  workout: **4** times a week
   -  contributions: **twice** a day
   -  algorithms: **1** AC a day
-  -  workout: **4** times a week
+  -  leetcode weekly contest on every Sunday 11:30+09:00
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅

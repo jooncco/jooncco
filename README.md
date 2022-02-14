@@ -5,7 +5,7 @@
 - 🧑‍💻 2022 is the **3rd** year of my career.
 - ☕️ I’m currently getting myself updated up to Java 11.
 - 🌱 I’m currently adding new features to my **[blog](https://jooncco.com)**.
-  - Internationalizing thorugh i18next.
+  - Internationalization thorugh i18next.
 - 🌐 Current fucus: DDD/MSA study
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
 - ⚡️ Routine:

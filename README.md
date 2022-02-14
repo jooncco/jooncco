@@ -12,7 +12,7 @@
   -  workout: **4** times a week
   -  contributions: **twice** a day
   -  algorithms: **1** AC a day
-  -  contests: Leetcode Weekly on every Sunday 11:30 (UTC+9)
+  -  contests: **Leetcode Weekly** on every Sunday 11:30 (UTC+9)
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅

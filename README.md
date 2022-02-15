@@ -4,9 +4,10 @@
 
 - 🧑‍💻 2022 is the **3rd** year of my career.
 - ☕️ I’m currently getting myself updated up to Java 11.
-- 🌱 I’m currently adding new features to my **[blog](https://jooncco.com)**.
+- 🌱 I’m currently adding new features to my **[profile page](https://jooncco.com/profile)**.
   - Internationalization thorugh i18next.
-- 🌐 Current fucus: DDD/MSA study
+  - Fetching cp activity data from leetcode, solved.ac.
+- 🌐 Current fucus: learning MSA/DDD concepts
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
 - ⚡️ Routine:
   -  workout: **4** times a week

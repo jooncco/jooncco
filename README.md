@@ -46,6 +46,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[LeetCode] 1014. Best Sightseeing Pair explained](https://jooncco.com/leetcode-1014/)
 - [[LeetCode] 53. Maximum Subarray explained](https://jooncco.com/leetcode-53/)
 - [[LeetCode] 2166. Design Bitset explained](https://jooncco.com/leetcode-2166/)
 - [[LeetCode] 2167. Minimum Time to Remove All Cars Containing Illegal Goods explained](https://jooncco.com/leetcode-2167/)
@@ -55,7 +56,6 @@
 - [[LeetCode] 82. Remove Duplicates from Sorted List II 풀이](https://jooncco.com/leetcode-82/)
 - [[LeetCode] 153. Find Minimum in Rotated Sorted Array 풀이](https://jooncco.com/leetcode-153/)
 - [[LeetCode] 162. Find Peak Element 풀이](https://jooncco.com/leetcode-162/)
-- [[LeetCode] 34. Find First and Last Position of Element in Sorted Array 풀이](https://jooncco.com/leetcode-34/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

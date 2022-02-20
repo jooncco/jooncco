@@ -9,9 +9,8 @@
   - Fetching cp activity data from leetcode, solved.ac.
 - 🌐 Current fucus: learning MSA/DDD concepts
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
-- ⚡️ Routine:
+- ⚡️ Routines:
   -  workout: **4** times a week
-  -  contributions: **twice** a day
   -  algorithms: **1** AC a day
   -  contests: **Leetcode Weekly** on every Sunday 11:30 (UTC+9)
 - 🥅 2022 Goals:

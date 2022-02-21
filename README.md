@@ -10,7 +10,7 @@
 - 🌐 Current fucus: learning MSA/DDD concepts
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
 - ⚡️ Routines:
-  - reading: **7'O clock** every morning
+  - reading: **7 O'clock** every morning
   - workout: **4** times a week
   - algorithms: **1** AC a day
   - contests: **Leetcode Weekly** on every Sunday 11:30 (UTC+9)

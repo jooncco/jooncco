@@ -3,23 +3,23 @@
 ### 🙋🏼‍♂️ Looking for a `genuine` back-end developer?
 
 - 🧑‍💻 2022 is the **3rd** year of my career.
-- ☕️ I’m currently getting myself updated up to Java 11.
 - 🌱 I’m currently adding new features to my **[profile page](https://jooncco.com/profile)**.
+  - CP activity UI
+  - Github action script fetching my rating data from codeforces, leetcode, solved.ac.
   - Internationalization thorugh i18next.
-  - Fetching cp activity data from leetcode, solved.ac.
-- 🌐 Current fucus: learning MSA/DDD concepts
+<!-- - ☕️ I’m currently getting myself updated up to Java 11. -->
+- 🌐 Current reading: MSA/DDD concepts
 - 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
 - ⚡️ Routines:
   - reading: **7 O'clock** every morning
-  - workout: **4** times a week
-  - algorithms: **1** AC a day
-  - contests: **Leetcode Weekly** on every Sunday 11:30 (UTC+9)
+  - workout: **3** times a week
+  - contests: **[Leetcode Weekly](https://leetcode.com/contest/)** every Sunday 11:30 (UTC+9)
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅
-  - Successfully launching [codehub](https://github.com/users/jooncco/projects/1) 💯
-  - Codeforces Expert 🦋
+  - Successfully launching [kourceplate](https://github.com/kourseplate/about) 💯
   - Contribute more to open source projects 🌏
+  - Codeforces Expert 🦋
   - Read 12 books. Books are not for ornament 📔
   - Gain weight up to 177 pounds 🏋️
   - Mountain climbing every 3 months ⛰
@@ -59,3 +59,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)
+
+<!-- ### 📈 CP Activity: -->
+
+<!-- [![Codeforces](https://cp-logo.vercel.app/codeforces/jooncco?logo=true)](http://codeforces.com/profile/jooncco) -->

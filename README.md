@@ -17,7 +17,7 @@
 - 🥅 2022 Goals:
   - AWS certified developer associate 🏅
   - AWS certified solutions architect associate 🏅
-  - Successfully launching [kourceplate](https://github.com/kourseplate/about) 💯
+  - Successfully launching [Kourseplate](https://github.com/kourseplate/about) 💯
   - Contribute more to open source projects 🌏
   - Codeforces Expert 🦋
   - Read 12 books. Books are not for ornament 📔

@@ -36,8 +36,8 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🔱 Forked [jooncco/recent-activity](https://github.com/jooncco/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ✌️ Released [testing](https://github.com/jooncco/recent-activity/releases/tag/v2.3.2) in [jooncco/recent-activity](https://github.com/jooncco/recent-activity)
+2. 💪 Opened PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. 📔 Created new repository [kourseplate/config](https://github.com/kourseplate/config)
 4. 📔 Created new repository [kourseplate/account](https://github.com/kourseplate/account)
 <!--RECENT_ACTIVITY:end-->

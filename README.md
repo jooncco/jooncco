@@ -36,8 +36,6 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ❗️ Opened issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 

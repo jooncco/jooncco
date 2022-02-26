@@ -9,20 +9,7 @@
   - Internationalization thorugh i18next.
 <!-- - ☕️ I’m currently getting myself updated up to Java 11. -->
 - 🌐 Current reading: MSA/DDD concepts
-- 🤖 Fun fact: a **polyglot** who has 2 mother tongues(Java, C++) is what I'm after.
-- ⚡️ Routines:
-  - reading: **7 O'clock** every morning
-  - workout: **3** times a week
-  - contests: **[Leetcode Weekly](https://leetcode.com/contest/)** every Sunday 11:30 (UTC+9)
-- 🥅 2022 Goals:
-  - AWS certified developer associate 🏅
-  - AWS certified solutions architect associate 🏅
-  - Successful launch of [Kourseplate](https://github.com/kourseplate/about) 💯
-  - Contribute more to open source projects 🌏
-  - Codeforces Expert 🦋
-  - Read 12 books. Books are not for ornament 📔
-  - Gain weight up to 177 pounds 🏋️
-  - Mountain climbing every 3 months ⛰
+- 🤖 Fun fact: a **polyglot** with 2 mother tongues(Java, C++) is what I'm after.
 
 ### 🛠 Dev Skills
 [![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&down_color=red&down_message=jooncco.com/profile&url=https://jooncco.com/profile)](https://jooncco.com/profile#dev-skills-)

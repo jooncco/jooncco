@@ -36,16 +36,16 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ❗️ Opened issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ✌️ Released [testing](https://github.com/jooncco/recent-activity/releases/tag/v2.3.2) in [jooncco/recent-activity](https://github.com/jooncco/recent-activity)
-4. 💪 Opened PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🔱 Forked [jooncco/recent-activity](https://github.com/jooncco/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. 📔 Created new repository [kourseplate/config](https://github.com/kourseplate/config)
-7. 📔 Created new repository [kourseplate/account](https://github.com/kourseplate/account)
-8. 📖 Created new wiki page [apge-2](https://github.com/kourseplate/about/wiki/apge-2) in [kourseplate/about](https://github.com/kourseplate/about)
-9. 📖 Created new wiki page [Home](https://github.com/kourseplate/about/wiki/Home) in [kourseplate/about](https://github.com/kourseplate/about)
-10. 📔 Created new repository [kourseplate/about](https://github.com/kourseplate/about)
+1. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
+2. ⭐ Starred [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida)
+3. 💪 Opened PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ❗️ Opened issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ✌️ Released [testing](https://github.com/jooncco/recent-activity/releases/tag/v2.3.2) in [jooncco/recent-activity](https://github.com/jooncco/recent-activity)
+6. 💪 Opened PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. 🔱 Forked [jooncco/recent-activity](https://github.com/jooncco/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. 📔 Created new repository [kourseplate/config](https://github.com/kourseplate/config)
+9. 📔 Created new repository [kourseplate/account](https://github.com/kourseplate/account)
+10. 📖 Created new wiki page [apge-2](https://github.com/kourseplate/about/wiki/apge-2) in [kourseplate/about](https://github.com/kourseplate/about)
 <!--RECENT_ACTIVITY:end-->
 
 

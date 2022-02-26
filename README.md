@@ -11,7 +11,7 @@
 - 🌐 Current reading: MSA/DDD concepts
 - 🤖 Fun fact: a **polyglot** with 2 mother tongues(Java, C++) is what I'm after.
 
-### 🛠 Dev Skills
+### 🛠 Skills
 [![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&down_color=red&down_message=jooncco.com/profile&url=https://jooncco.com/profile)](https://jooncco.com/profile#dev-skills-)
 
 ### 📫 Reach Me through:

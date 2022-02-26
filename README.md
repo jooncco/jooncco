@@ -5,7 +5,7 @@
 - 🧑‍💻 2022 is the **3rd** year of my career.
 - 🌱 I’m currently adding new features to my **[profile page](https://jooncco.com/profile)**.
   - ~~CP activity UI~~ ✅
-  - Github action script fetching my rating data from codeforces, leetcode, solved.ac.
+  - CP activity crawler for codeforces, leetcode, solved.ac.
   - Internationalization thorugh i18next.
 <!-- - ☕️ I’m currently getting myself updated up to Java 11. -->
 - 🌐 Current reading: MSA/DDD concepts

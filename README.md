@@ -23,16 +23,16 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
-2. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
-3. ⭐ Starred [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida)
-4. 💪 Opened PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ❗️ Opened issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ✌️ Released [testing](https://github.com/jooncco/recent-activity/releases/tag/v2.3.2) in [jooncco/recent-activity](https://github.com/jooncco/recent-activity)
-7. 💪 Opened PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. 🔱 Forked [jooncco/recent-activity](https://github.com/jooncco/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. 📔 Created new repository [kourseplate/config](https://github.com/kourseplate/config)
-10. 📔 Created new repository [kourseplate/account](https://github.com/kourseplate/account)
+1. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
+2. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
+3. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
+4. ⭐ Starred [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida)
+5. 💪 Opened PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ❗️ Opened issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ✌️ Released [testing](https://github.com/jooncco/recent-activity/releases/tag/v2.3.2) in [jooncco/recent-activity](https://github.com/jooncco/recent-activity)
+8. 💪 Opened PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. 🔱 Forked [jooncco/recent-activity](https://github.com/jooncco/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. 📔 Created new repository [kourseplate/config](https://github.com/kourseplate/config)
 <!--RECENT_ACTIVITY:end-->
 
 

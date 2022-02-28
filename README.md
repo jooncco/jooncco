@@ -1,23 +1,36 @@
-## Oh hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa - aka [jooncco](https://jooncco.com/profile)
 
-### 🙋🏼‍♂️ Looking for a `genuine` back-end developer?
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
+  <a href="https://jooncco.com"><img src="https://i.ibb.co/2crZYNd/apple-touch-icon.png" alt="apple-touch-icon" border="0"></a>
+</p>
 
-- 🧑‍💻 2022 is the **3rd** year of my career.
-- 🌱 I’m currently adding new features to my **[profile page](https://jooncco.com/profile)**.
-  - ~~CP activity UI~~ ✅
-  - CP activity crawler for codeforces, leetcode, solved.ac.
-  - Internationalization thorugh i18next.
-- 🌐 Current reading: MSA/DDD concepts
-- 🤖 Fun fact: a **polyglot** with 2 mother tongues(Java, C++) is what I'm after.
+<p align="center">
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa <br/>
+  I'm a back-end develoeper and 2022 is the <b>3rd</b> year of my career.<br />
+  Currently at: <a href="https://www.lgcns.com/EN/Home">LG CNS</a>
+</p>
 
-### 🛠 Skills
-[![Website](https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&down_color=red&down_message=jooncco.com/profile&url=https://jooncco.com/profile)](https://jooncco.com/profile#dev-skills-)
+<h3 align="center">Skills</h3>
+<p align="center">
+  <a href="https://jooncco.com/profile#skills-">
+    <img src="https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&down_color=red&down_message=jooncco.com/profile&url=https://jooncco.com/profile#dev-skills-"/>
+  </a>
+</p>
 
-### 📫 Reach Me through:
-
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jooncco) [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/jooncco)
-
-<br />
+<h3 align="center">Reach Me Through</h3>
+<p align="center">
+  <a href="mailto:jooncco.g@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jooncco">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/jooncco">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+<br /><br /><br /><br /><br />
+<hr />
 
 ### ⚡ Recent Activity:
 

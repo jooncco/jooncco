@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa <br/>
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa. <br/>
   I'm a back-end develoeper and 2022 is the <b>3rd</b> year of my career.<br />
   Currently at: <a href="https://www.lgcns.com/EN/Home">LG CNS</a>
 </p>
@@ -19,18 +19,22 @@
 
 <h3 align="center">Reach Me Through</h3>
 <p align="center">
-  <a href="mailto:jooncco.g@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/jooncco">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="mailto:jooncco.g@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/jooncco">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
-<br /><br /><br /><br /><br />
+<br />
+<br />
+
 <hr />
+
+<br />
 
 ### ⚡ Recent Activity:
 
@@ -47,6 +51,7 @@
 10. 📔 Created new repository [kourseplate/config](https://github.com/kourseplate/config)
 <!--RECENT_ACTIVITY:end-->
 
+<br />
 
 ### 📕 Latest Blog Posts:
 

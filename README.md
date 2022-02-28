@@ -7,7 +7,6 @@
   - ~~CP activity UI~~ ✅
   - CP activity crawler for codeforces, leetcode, solved.ac.
   - Internationalization thorugh i18next.
-<!-- - ☕️ I’m currently getting myself updated up to Java 11. -->
 - 🌐 Current reading: MSA/DDD concepts
 - 🤖 Fun fact: a **polyglot** with 2 mother tongues(Java, C++) is what I'm after.
 

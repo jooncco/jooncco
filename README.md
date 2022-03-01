@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="center">Reach Me Through</h3>
+<h3 align="center">Reach Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jooncco">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>

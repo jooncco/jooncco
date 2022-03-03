@@ -56,6 +56,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[LeetCode] 2171. Removing Minimum Number of Magic Beans explained](https://jooncco.com/leetcode-2171/)
 - [[LeetCode] 1014. Best Sightseeing Pair explained](https://jooncco.com/leetcode-1014/)
 - [[LeetCode] 53. Maximum Subarray explained](https://jooncco.com/leetcode-53/)
 - [[LeetCode] 2166. Design Bitset explained](https://jooncco.com/leetcode-2166/)
@@ -65,7 +66,6 @@
 - [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)
 - [[LeetCode] 82. Remove Duplicates from Sorted List II 풀이](https://jooncco.com/leetcode-82/)
 - [[LeetCode] 153. Find Minimum in Rotated Sorted Array 풀이](https://jooncco.com/leetcode-153/)
-- [[LeetCode] 162. Find Peak Element 풀이](https://jooncco.com/leetcode-162/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

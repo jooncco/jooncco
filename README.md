@@ -7,7 +7,7 @@
 <p align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa. <br/>
   I'm a back-end develoeper and 2022 is the <b>3rd</b> year of my career.<br />
-  Currently at: <a href="https://www.lgcns.com/EN/Home">LG CNS</a>
+  Working at <a href="https://www.lgcns.com/EN/Home">LG CNS</a>
 </p>
 
 <h3 align="center">Skills</h3>

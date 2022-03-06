@@ -56,6 +56,9 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.com/leetcode-309/)
+- [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.com/leetcode-714/)
+- [[LeetCode] 918. Maximum Sum Circular Subarray explained](https://jooncco.com/leetcode-918/)
 - [[LeetCode] 2171. Removing Minimum Number of Magic Beans explained](https://jooncco.com/leetcode-2171/)
 - [[LeetCode] 1014. Best Sightseeing Pair explained](https://jooncco.com/leetcode-1014/)
 - [[LeetCode] 53. Maximum Subarray explained](https://jooncco.com/leetcode-53/)
@@ -63,9 +66,6 @@
 - [[LeetCode] 2167. Minimum Time to Remove All Cars Containing Illegal Goods explained](https://jooncco.com/leetcode-2167/)
 - [[Git] 변경사항 취소하기](https://jooncco.com/git/git-undoing-changes/)
 - [[Git] 명령어 Cheat Sheet &lpar;cumulative&rpar;](https://jooncco.com/git/git-command-archive/)
-- [[LeetCode] 15. 3 Sum 풀이](https://jooncco.com/leetcode-15/)
-- [[LeetCode] 82. Remove Duplicates from Sorted List II 풀이](https://jooncco.com/leetcode-82/)
-- [[LeetCode] 153. Find Minimum in Rotated Sorted Array 풀이](https://jooncco.com/leetcode-153/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

@@ -13,7 +13,7 @@
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://jooncco.com/profile#skills-">
-    <img src="https://img.shields.io/website?up_color=blue&up_message=jooncco.com/profile&down_color=red&down_message=jooncco.com/profile&url=https://jooncco.com/profile#dev-skills-"/>
+    <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.com%2Fprofile&style=flat-square&up_color=9cf&up_message=jooncco.com%2Fprofile&url=https%3A%2F%2Fjooncco.com%2Fprofile%23skills-">
   </a>
 </p>
 

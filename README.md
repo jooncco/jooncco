@@ -40,15 +40,15 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
-2. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
-3. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-4. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-5. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
-6. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
-7. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
-8. ⭐ Starred [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida)
-9. 💪 Opened PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ❗️ Opened issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+3. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+4. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
+5. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+6. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+7. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
+8. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
+9. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
+10. ⭐ Starred [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida)
 <!--RECENT_ACTIVITY:end-->
 
 <br />

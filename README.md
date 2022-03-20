@@ -42,13 +42,13 @@
 1. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 2. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 3. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
-4. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
-5. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-6. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-7. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
-8. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
-9. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
-10. ⭐ Starred [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida)
+4. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+5. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
+6. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+7. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+8. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
+9. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
+10. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 <!--RECENT_ACTIVITY:end-->
 
 <br />

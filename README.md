@@ -56,6 +56,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[LeetCode] 2212. Maximum Points in an Archery Competition explained](https://jooncco.com/leetcode-2212/)
 - [[LeetCode] 2203. Minimum Weighted Subgraph With the Required Paths explained](https://jooncco.com/leetcode-2203/)
 - [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.com/leetcode-309/)
 - [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.com/leetcode-714/)
@@ -65,7 +66,6 @@
 - [[LeetCode] 53. Maximum Subarray explained](https://jooncco.com/leetcode-53/)
 - [[LeetCode] 2166. Design Bitset explained](https://jooncco.com/leetcode-2166/)
 - [[LeetCode] 2167. Minimum Time to Remove All Cars Containing Illegal Goods explained](https://jooncco.com/leetcode-2167/)
-- [[Git] 변경사항 취소하기](https://jooncco.com/git/git-undoing-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

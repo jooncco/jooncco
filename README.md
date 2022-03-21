@@ -39,16 +39,16 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+1. 📔 Created new repository [jooncco/sns-integration](https://github.com/jooncco/sns-integration)
 2. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 3. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 4. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
-5. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
-6. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-7. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-8. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
-9. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
-10. ⭐ Starred [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
+5. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+6. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
+7. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+8. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+9. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
+10. ⭐ Starred [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
 <!--RECENT_ACTIVITY:end-->
 
 <br />

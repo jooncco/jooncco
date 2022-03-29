@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JunHa. <br/>
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Junha Jeong. <br/>
   I'm a full-stack develoeper and 2022 is the <b>3rd</b> year of my career.<br />
   Working at <a href="https://www.lgcns.com/EN/Home">LG CNS</a>
 </p>

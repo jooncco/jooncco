@@ -39,16 +39,16 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/algorithm-solutions](https://github.com/jooncco/algorithm-solutions)
-2. 📔 Created new repository [jooncco/sns-integration](https://github.com/jooncco/sns-integration)
-3. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+1. 📔 Created new repository [jooncco/gym](https://github.com/jooncco/gym)
+2. 📔 Created new repository [jooncco/algorithm-solutions](https://github.com/jooncco/algorithm-solutions)
+3. 📔 Created new repository [jooncco/sns-integration](https://github.com/jooncco/sns-integration)
 4. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 5. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 6. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
-7. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
-8. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-9. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
-10. 🔱 Forked [jooncco/CP-Badges](https://github.com/jooncco/CP-Badges) from [kehsihba19/CP-Badges](https://github.com/kehsihba19/CP-Badges)
+7. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+8. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
+9. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+10. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <br />

@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Junha Jeong. <br/>
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Junha Jeong. <br/>
   I'm a back-end developer and 2022 is the <b>3rd</b> year of my career.<br />
-  Current workplace: <a href="https://www.lgcns.com/EN/Home">LG CNS</a>
+  Current workplace: <a href="https://www.slalombuild.com/our-work/lg-cns">LG CNS</a>
 </p>
 
 <h3 align="center">Skills</h3>

@@ -56,6 +56,8 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Codeforces] 1490C. Sum of Cubes explained](https://jooncco.com/codeforces-1490C/)
+- [[Leetcode] 814. Binary Tree Pruning explained](https://jooncco.com/leetcode-814/)
 - [[LeetCode] 2212. Maximum Points in an Archery Competition explained](https://jooncco.com/leetcode-2212/)
 - [[LeetCode] 2203. Minimum Weighted Subgraph With the Required Paths explained](https://jooncco.com/leetcode-2203/)
 - [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.com/leetcode-309/)
@@ -64,8 +66,6 @@
 - [[LeetCode] 2171. Removing Minimum Number of Magic Beans explained](https://jooncco.com/leetcode-2171/)
 - [[LeetCode] 1014. Best Sightseeing Pair explained](https://jooncco.com/leetcode-1014/)
 - [[LeetCode] 53. Maximum Subarray explained](https://jooncco.com/leetcode-53/)
-- [[LeetCode] 2166. Design Bitset explained](https://jooncco.com/leetcode-2166/)
-- [[LeetCode] 2167. Minimum Time to Remove All Cars Containing Illegal Goods explained](https://jooncco.com/leetcode-2167/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

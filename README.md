@@ -56,6 +56,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Leetcode] 94. Binary Tree Inorder Traversal explained](https://jooncco.com/leetcode-94/)
 - [[Codeforces] 1490C. Sum of Cubes explained](https://jooncco.com/codeforces-1490C/)
 - [[Leetcode] 814. Binary Tree Pruning explained](https://jooncco.com/leetcode-814/)
 - [[LeetCode] 2212. Maximum Points in an Archery Competition explained](https://jooncco.com/leetcode-2212/)
@@ -65,7 +66,6 @@
 - [[LeetCode] 918. Maximum Sum Circular Subarray explained](https://jooncco.com/leetcode-918/)
 - [[LeetCode] 2171. Removing Minimum Number of Magic Beans explained](https://jooncco.com/leetcode-2171/)
 - [[LeetCode] 1014. Best Sightseeing Pair explained](https://jooncco.com/leetcode-1014/)
-- [[LeetCode] 53. Maximum Subarray explained](https://jooncco.com/leetcode-53/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

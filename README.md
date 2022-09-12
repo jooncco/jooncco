@@ -56,6 +56,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Leetcode] 948. Bag of Tokens explained](https://jooncco.com/leetcode-948/)
 - [[Leetcode] 188. Best Time to Buy and Sell Stock IV explained](https://jooncco.com/leetcode-188/)
 - [[Leetcode] 94. Binary Tree Inorder Traversal explained](https://jooncco.com/leetcode-94/)
 - [[Codeforces] 1490C. Sum of Cubes explained](https://jooncco.com/codeforces-1490C/)
@@ -65,7 +66,6 @@
 - [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.com/leetcode-309/)
 - [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.com/leetcode-714/)
 - [[LeetCode] 918. Maximum Sum Circular Subarray explained](https://jooncco.com/leetcode-918/)
-- [[LeetCode] 2171. Removing Minimum Number of Magic Beans explained](https://jooncco.com/leetcode-2171/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

@@ -56,6 +56,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Leetcode] 42. Trapping Rain Water explained](https://jooncco.com/leetcode-42/)
 - [[Leetcode] 948. Bag of Tokens explained](https://jooncco.com/leetcode-948/)
 - [[Leetcode] 188. Best Time to Buy and Sell Stock IV explained](https://jooncco.com/leetcode-188/)
 - [[Leetcode] 94. Binary Tree Inorder Traversal explained](https://jooncco.com/leetcode-94/)
@@ -65,7 +66,6 @@
 - [[LeetCode] 2203. Minimum Weighted Subgraph With the Required Paths explained](https://jooncco.com/leetcode-2203/)
 - [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.com/leetcode-309/)
 - [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.com/leetcode-714/)
-- [[LeetCode] 918. Maximum Sum Circular Subarray explained](https://jooncco.com/leetcode-918/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.com)

@@ -40,9 +40,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
-2. 📔 Created new repository [jooncco/algorithm-solutions](https://github.com/jooncco/algorithm-solutions)
-3. 📔 Created new repository [jooncco/sns-integration](https://github.com/jooncco/sns-integration)
-4. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+2. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
+3. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
+4. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
 5. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 6. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 7. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)

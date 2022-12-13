@@ -39,12 +39,12 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
-2. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
+1. 🎉 Merged PR [#1](https://github.com/jooncco/blog-fe/pull/1) in [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
+2. 💪 Opened PR [#1](https://github.com/jooncco/blog-fe/pull/1) in [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
 3. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
 4. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
-5. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
-6. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+5. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
+6. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
 7. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 8. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
 9. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)

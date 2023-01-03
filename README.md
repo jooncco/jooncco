@@ -6,7 +6,7 @@
 
 <p align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Junha Jeong. <br/>
-  I'm a back-end developer and 2022 is the <b>3rd</b> year of my career.<br />
+  I'm a back-end developer and 2023 is the <b>4th</b> year of my career.<br />
   Current workplace: <a href="https://www.slalombuild.com/our-work/lg-cns">LG CNS</a>
 </p>
 

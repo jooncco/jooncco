@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <br/>
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <br/>
   It's <b>Daniel</b> (a.k.a. <b>jooncco</b>). <br/>
   I'm one of the cool <del>nerdy</del> clutchy software engineers <br/>
   and <b>2023</b> is the <b>4th</b> year of my career.<br/>

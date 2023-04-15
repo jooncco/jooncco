@@ -43,9 +43,9 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/jooncco.com-fe](https://github.com/jooncco/jooncco.com-fe)
-2. 📔 Created new repository [jooncco/nextjs-tutorial](https://github.com/jooncco/nextjs-tutorial)
-3. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
+1. 📔 Created new repository [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+2. 📔 Created new repository [jooncco/jooncco.com-fe](https://github.com/jooncco/jooncco.com-fe)
+3. 📔 Created new repository [jooncco/nextjs-tutorial](https://github.com/jooncco/nextjs-tutorial)
 4. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
 5. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
 6. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)

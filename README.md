@@ -44,10 +44,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
-2. 📔 Created new repository [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
-3. 📔 Created new repository [jooncco/jooncco.com-fe](https://github.com/jooncco/jooncco.com-fe)
-4. 📔 Created new repository [jooncco/nextjs-tutorial](https://github.com/jooncco/nextjs-tutorial)
-5. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
+2. 🤝 Became collaborator on [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+3. 📔 Created new repository [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+4. 📔 Created new repository [jooncco/jooncco.com-fe](https://github.com/jooncco/jooncco.com-fe)
+5. 📔 Created new repository [jooncco/nextjs-tutorial](https://github.com/jooncco/nextjs-tutorial)
 6. 📔 Created new repository [jooncco/blog-fe](https://github.com/jooncco/blog-fe)
 7. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
 8. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)

@@ -42,13 +42,13 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#3](https://github.com/jooncco/spring-api-server-template/pull/3#pullrequestreview-1427755615) in [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
-2. ✔️ Closed issue [#2](https://github.com/jooncco/spring-api-server-template-async/issues/2) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
-3. ✔️ Closed issue [#1](https://github.com/jooncco/spring-api-server-template-async/issues/1) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
-4. 🤝 Became collaborator on [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+1. 🎉 Merged PR [#3](https://github.com/jooncco/spring-api-server-template/pull/3) in [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+2. 🔴 Requested changes in [#3](https://github.com/jooncco/spring-api-server-template/pull/3#pullrequestreview-1427755615) in [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+3. ✔️ Closed issue [#2](https://github.com/jooncco/spring-api-server-template-async/issues/2) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
+4. ✔️ Closed issue [#1](https://github.com/jooncco/spring-api-server-template-async/issues/1) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
 5. 🤝 Became collaborator on [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
-6. 📔 Created new repository [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
-7. 📔 Created new repository [jooncco/twitter-api-request-example](https://github.com/jooncco/twitter-api-request-example)
+6. 🤝 Became collaborator on [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+7. 📔 Created new repository [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
 8. 📔 Created new repository [jooncco/CP-activities](https://github.com/jooncco/CP-activities)
 9. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
 10. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)

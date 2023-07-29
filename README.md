@@ -42,7 +42,7 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/jooncco/spring-api-server-template/pull/3) in [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
+1. 📔 Created new repository [jooncco/cp-killer-plate-java](https://github.com/jooncco/cp-killer-plate-java)
 2. 🔴 Requested changes in [#3](https://github.com/jooncco/spring-api-server-template/pull/3#pullrequestreview-1427755615) in [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
 3. ✔️ Closed issue [#2](https://github.com/jooncco/spring-api-server-template-async/issues/2) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
 4. ✔️ Closed issue [#1](https://github.com/jooncco/spring-api-server-template-async/issues/1) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)

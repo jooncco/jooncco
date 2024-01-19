@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
-  <a href="https://jooncco.com"><img src="https://i.ibb.co/2crZYNd/apple-touch-icon.png" alt="apple-touch-icon" border="0"></a>
+  <a href="https://jooncco.github.io"><img src="https://i.ibb.co/GM8z1d4/logo.png" alt="logo" border="0"></a>
 </p>
 
 <p align="center">
@@ -59,19 +59,19 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Leetcode] 42. Trapping Rain Water explained](https://jooncco.com/leetcode-42/)
-- [[Leetcode] 948. Bag of Tokens explained](https://jooncco.com/leetcode-948/)
-- [[Leetcode] 188. Best Time to Buy and Sell Stock IV explained](https://jooncco.com/leetcode-188/)
-- [[Leetcode] 94. Binary Tree Inorder Traversal explained](https://jooncco.com/leetcode-94/)
-- [[Codeforces] 1490C. Sum of Cubes explained](https://jooncco.com/codeforces-1490C/)
-- [[Leetcode] 814. Binary Tree Pruning explained](https://jooncco.com/leetcode-814/)
-- [[LeetCode] 2212. Maximum Points in an Archery Competition explained](https://jooncco.com/leetcode-2212/)
-- [[LeetCode] 2203. Minimum Weighted Subgraph With the Required Paths explained](https://jooncco.com/leetcode-2203/)
-- [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.com/leetcode-309/)
-- [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.com/leetcode-714/)
+- [[Leetcode] 42. Trapping Rain Water explained](https://jooncco.github.io/leetcode-42/)
+- [[Leetcode] 948. Bag of Tokens explained](https://jooncco.github.io/leetcode-948/)
+- [[Leetcode] 188. Best Time to Buy and Sell Stock IV explained](https://jooncco.github.io/leetcode-188/)
+- [[Leetcode] 94. Binary Tree Inorder Traversal explained](https://jooncco.github.io/leetcode-94/)
+- [[Codeforces] 1490C. Sum of Cubes explained](https://jooncco.github.io/codeforces-1490C/)
+- [[Leetcode] 814. Binary Tree Pruning explained](https://jooncco.github.io/leetcode-814/)
+- [[LeetCode] 2212. Maximum Points in an Archery Competition explained](https://jooncco.github.io/leetcode-2212/)
+- [[LeetCode] 2203. Minimum Weighted Subgraph With the Required Paths explained](https://jooncco.github.io/leetcode-2203/)
+- [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.github.io/leetcode-309/)
+- [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.github.io/leetcode-714/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more posts...](https://jooncco.com)
+➡️ [more posts...](https://jooncco.github.io)
 
 <!-- ### 📈 CP Activity: -->
 

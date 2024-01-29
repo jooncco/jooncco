@@ -42,7 +42,7 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/kakaotalk-chat-dump-exporter](https://github.com/jooncco/kakaotalk-chat-dump-exporter)
+1. ⭐ Starred [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 2. ⭐ Starred [adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)
 3. ✔️ Closed issue [#2](https://github.com/jooncco/spring-api-server-template-async/issues/2) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
 4. ✔️ Closed issue [#1](https://github.com/jooncco/spring-api-server-template-async/issues/1) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)

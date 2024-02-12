@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
-  <a href="https://jooncco.github.io"><img src="https://i.ibb.co/GM8z1d4/logo.png" alt="logo" border="0"></a>
+  <a href="https://about-jooncco.vercel.app"><img src="https://i.ibb.co/dJc4h7R/apple-icon.png" alt="logo" border="0"/></a>
 </p>
 
 <p align="center">

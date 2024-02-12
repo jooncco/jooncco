@@ -16,8 +16,8 @@
 
 <h3 align="center">Skills</h3>
 <p align="center">
-  <a href="https://jooncco.github.io/profile#skills-">
-    <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.github.io%2Fprofile&style=flat-square&up_color=9cf&up_message=jooncco.github.io%2Fprofile&url=https%3A%2F%2Fjooncco.github.io%2Fprofile%23skills-">
+  <a href="https://about-jooncco.vercel.app">
+    <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=about-jooncco.vercel.app&style=flat-square&up_color=9cf&up_message=about-jooncco.vercel.app&url=https://about-jooncco.vercel.app">
   </a>
 </p>
 

@@ -8,7 +8,7 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <br/>
   It's <b>Junha</b> (a.k.a. <b>jooncco</b>). <br/>
   <b>2024</b> is the <b>5th</b> year of my career.<br/>
-  Hit the <b>Follow</b> button on the left and check my activities you might like.<br/><br/>
+  Hit the <b>Follow</b> button on the left and check my activities. You're going to LOVE my work.<br/><br/>
   Current workplace: <a href="https://www.lgcns.com/">LG CNS</a><br/>
   📍 Seoul, Republic of Korea
 </p>

@@ -43,9 +43,9 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-2. ⭐ Starred [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
-3. ✔️ Closed issue [#2](https://github.com/jooncco/spring-api-server-template-async/issues/2) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
+1. ✌️ Released [v0.1.1 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.1) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+2. ✌️ Released [v0.1.0 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+3. ⭐ Starred [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 4. ✔️ Closed issue [#1](https://github.com/jooncco/spring-api-server-template-async/issues/1) in [jooncco/spring-api-server-template-async](https://github.com/jooncco/spring-api-server-template-async)
 5. 🤝 Became collaborator on [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)
 6. 🤝 Became collaborator on [jooncco/spring-api-server-template](https://github.com/jooncco/spring-api-server-template)

@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
-  <a href="https://about-jooncco.vercel.app"><img src="https://i.ibb.co/dJc4h7R/apple-icon.png" alt="logo" border="0"/></a>
+  <a href="https://jooncco.me"><img src="https://i.ibb.co/N2jDKfK/logo.png" alt="logo" border="0"/></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 
 <h3 align="center">Skills</h3>
 <p align="center">
-  <a href="https://about-jooncco.vercel.app">
-    <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=about-jooncco.vercel.app&style=flat-square&up_color=9cf&up_message=about-jooncco.vercel.app&url=https://about-jooncco.vercel.app">
+  <a href="https://jooncco.me">
+    <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.me&style=flat-square&up_color=9cf&up_message=jooncco.me&url=https://jooncco.me">
   </a>
 </p>
 

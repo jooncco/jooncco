@@ -43,15 +43,15 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/n8n-nodes-delete-execution](https://github.com/jooncco/n8n-nodes-delete-execution)
-2. 📔 Created new repository [jooncco/n8n-nodes-ignore](https://github.com/jooncco/n8n-nodes-ignore)
-3. ✌️ Released [v0.1.3](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.3) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-4. ✌️ Released [v0.1.3 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.3) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-5. ✌️ Released [v0.1.2 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.2) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-6. ✌️ Released [v0.1.1 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.1) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-7. ✌️ Released [v0.1.0 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-8. ⭐ Starred [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
-9. 🎉 Merged PR [#1](https://github.com/jooncco/jooncco.github.io/pull/1) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
+1. ✌️ Released [v1.0.0](https://github.com/jooncco/about-jooncco/releases/tag/v1.0.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+2. 📔 Created new repository [jooncco/n8n-nodes-delete-execution](https://github.com/jooncco/n8n-nodes-delete-execution)
+3. 📔 Created new repository [jooncco/n8n-nodes-ignore](https://github.com/jooncco/n8n-nodes-ignore)
+4. ✌️ Released [v0.1.3](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.3) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+5. ✌️ Released [v0.1.3 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.3) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+6. ✌️ Released [v0.1.2 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.2) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+7. ✌️ Released [v0.1.1 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.1) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+8. ✌️ Released [v0.1.0 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+9. ⭐ Starred [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 10. 👍 Approved [#1](https://github.com/jooncco/jooncco.github.io/pull/1#pullrequestreview-898994889) in [jooncco/jooncco.github.io](https://github.com/jooncco/jooncco.github.io)
 <!--RECENT_ACTIVITY:end-->
 

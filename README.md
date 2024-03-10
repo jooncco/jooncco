@@ -60,16 +60,16 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Leetcode] 42. Trapping Rain Water explained](https://jooncco.github.io/leetcode-42/)
-- [[Leetcode] 948. Bag of Tokens explained](https://jooncco.github.io/leetcode-948/)
-- [[Leetcode] 188. Best Time to Buy and Sell Stock IV explained](https://jooncco.github.io/leetcode-188/)
-- [[Leetcode] 94. Binary Tree Inorder Traversal explained](https://jooncco.github.io/leetcode-94/)
-- [[Codeforces] 1490C. Sum of Cubes explained](https://jooncco.github.io/codeforces-1490C/)
-- [[Leetcode] 814. Binary Tree Pruning explained](https://jooncco.github.io/leetcode-814/)
-- [[LeetCode] 2212. Maximum Points in an Archery Competition explained](https://jooncco.github.io/leetcode-2212/)
-- [[LeetCode] 2203. Minimum Weighted Subgraph With the Required Paths explained](https://jooncco.github.io/leetcode-2203/)
-- [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.github.io/leetcode-309/)
-- [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.github.io/leetcode-714/)
+- [[Leetcode] 42. Trapping Rain Water explained](https://jooncco.github.io/competitive-programming/leetcode-42/)
+- [[Leetcode] 948. Bag of Tokens explained](https://jooncco.github.io/competitive-programming/leetcode-948/)
+- [[Leetcode] 188. Best Time to Buy and Sell Stock IV explained](https://jooncco.github.io/competitive-programming/leetcode-188/)
+- [[Leetcode] 94. Binary Tree Inorder Traversal explained](https://jooncco.github.io/competitive-programming/leetcode-94/)
+- [[Codeforces] 1490C. Sum of Cubes explained](https://jooncco.github.io/competitive-programming/codeforces-1490C/)
+- [[Leetcode] 814. Binary Tree Pruning explained](https://jooncco.github.io/competitive-programming/leetcode-814/)
+- [[LeetCode] 2212. Maximum Points in an Archery Competition explained](https://jooncco.github.io/competitive-programming/leetcode-2212/)
+- [[LeetCode] 2203. Minimum Weighted Subgraph With the Required Paths explained](https://jooncco.github.io/competitive-programming/leetcode-2203/)
+- [[LeetCode] 309. Best Time to Buy and Sell Stock with Cooldown explained](https://jooncco.github.io/competitive-programming/leetcode-309/)
+- [[LeetCode] 714. Best Time to Buy and Sell Stock with Transaction Fee explained](https://jooncco.github.io/competitive-programming/leetcode-714/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://jooncco.github.io)

@@ -43,10 +43,10 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/atm](https://github.com/jooncco/atm)
-2. ✌️ Released [v1.0.0](https://github.com/jooncco/about-jooncco/releases/tag/v1.0.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+1. ⭐ Starred [okxapi/okx-sample-market-maker](https://github.com/okxapi/okx-sample-market-maker)
+2. 📔 Created new repository [jooncco/atm](https://github.com/jooncco/atm)
 3. ✌️ Released [v1.0.0](https://github.com/jooncco/about-jooncco/releases/tag/v1.0.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-4. 📔 Created new repository [jooncco/n8n-nodes-delete-execution](https://github.com/jooncco/n8n-nodes-delete-execution)
+4. ✌️ Released [v1.0.0](https://github.com/jooncco/about-jooncco/releases/tag/v1.0.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
 5. 📔 Created new repository [jooncco/n8n-nodes-ignore](https://github.com/jooncco/n8n-nodes-ignore)
 6. ✌️ Released [v0.1.3 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.3) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
 7. ✌️ Released [v0.1.2 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.2) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)

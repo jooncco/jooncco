@@ -7,7 +7,6 @@
 <p align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <br/>
   It's <b>Junha</b> (a.k.a. <b>jooncco</b>). <br/>
-  
   Current workplace: <a href="https://www.lgcns.com/">LG CNS</a><br/>
   📍 Seoul, Republic of Korea
 </p>

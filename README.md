@@ -44,11 +44,11 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jooncco/gym](https://github.com/jooncco/gym)
-2. 🤝 Became collaborator on [jooncco/gym](https://github.com/jooncco/gym)
-3. ⭐ Starred [okxapi/okx-sample-market-maker](https://github.com/okxapi/okx-sample-market-maker)
-4. 📔 Created new repository [jooncco/atm](https://github.com/jooncco/atm)
-5. ✌️ Released [v1.0.0](https://github.com/jooncco/about-jooncco/releases/tag/v1.0.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+1. ⭐ Starred [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+2. ⭐ Starred [jooncco/gym](https://github.com/jooncco/gym)
+3. 🤝 Became collaborator on [jooncco/gym](https://github.com/jooncco/gym)
+4. ⭐ Starred [okxapi/okx-sample-market-maker](https://github.com/okxapi/okx-sample-market-maker)
+5. 📔 Created new repository [jooncco/atm](https://github.com/jooncco/atm)
 6. ✌️ Released [v1.0.0](https://github.com/jooncco/about-jooncco/releases/tag/v1.0.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
 7. ✌️ Released [v0.1.2 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.2) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
 8. ✌️ Released [v0.1.1 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.1) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)

@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-  Hey there. I'm <b>Junha</b>.<br/>
-  <b>jooncco</b> is a developer handle of mine 😎<br/>
-  Check out his activities and get to know more about him in this website:<br/><br/>
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br/>
+  It's <b>Daniel</b>.<br/>
+  I got several aliases, and <b>jooncco</b> is one of them.<br/>
+  Check out my activities you might like:<br/><br/>
   <a href="https://jooncco.me">
     <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.me&style=flat-square&up_color=9cf&up_message=jooncco.me&url=https://jooncco.me">
   </a><br/>
@@ -21,9 +21,6 @@
 
 <h3 align="center">Reach Me</h3>
 <p align="center">
-  <a href="https://jooncco.github.io">
-    <img alt="blog" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.github.io&style=flat-square&up_color=9cf&up_message=jooncco.github.io&url=https://jooncco.github.io">
-  </a><br/>
   <a href="https://www.linkedin.com/in/jooncco">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>

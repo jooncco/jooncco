@@ -41,7 +41,7 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+1. 📔 Created new repository [jooncco/cp-snippet-cpp](https://github.com/jooncco/cp-snippet-cpp)
 2. ⭐ Starred [jooncco/gym](https://github.com/jooncco/gym)
 3. 🤝 Became collaborator on [jooncco/gym](https://github.com/jooncco/gym)
 4. ⭐ Starred [okxapi/okx-sample-market-maker](https://github.com/okxapi/okx-sample-market-maker)

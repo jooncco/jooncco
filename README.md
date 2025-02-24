@@ -41,8 +41,8 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
-2. ⭐ Starred [jooncco/gym](https://github.com/jooncco/gym)
+1. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)
+2. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
 3. 🤝 Became collaborator on [jooncco/gym](https://github.com/jooncco/gym)
 4. ⭐ Starred [okxapi/okx-sample-market-maker](https://github.com/okxapi/okx-sample-market-maker)
 5. 📔 Created new repository [jooncco/atm](https://github.com/jooncco/atm)

@@ -41,8 +41,8 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#4](https://github.com/jooncco/genai-sandbox/pull/4) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
-2. ❌ Closed PR [#6](https://github.com/jooncco/genai-sandbox/pull/6) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+1. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)
+2. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
 3. ❌ Closed PR [#2](https://github.com/jooncco/genai-sandbox/pull/2) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
 4. ❌ Closed PR [#3](https://github.com/jooncco/genai-sandbox/pull/3) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
 5. ❌ Closed PR [#5](https://github.com/jooncco/genai-sandbox/pull/5) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)

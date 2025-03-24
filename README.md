@@ -41,14 +41,14 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)
-2. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
-3. 🤝 Became collaborator on [jooncco/gym](https://github.com/jooncco/gym)
-4. ⭐ Starred [okxapi/okx-sample-market-maker](https://github.com/okxapi/okx-sample-market-maker)
-5. 📔 Created new repository [jooncco/atm](https://github.com/jooncco/atm)
-6. ✌️ Released [v1.0.0](https://github.com/jooncco/about-jooncco/releases/tag/v1.0.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-7. ✌️ Released [v0.1.2 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.2) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
-8. ✌️ Released [v0.1.1 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.1) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
+1. ❌ Closed PR [#4](https://github.com/jooncco/genai-sandbox/pull/4) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+2. ❌ Closed PR [#6](https://github.com/jooncco/genai-sandbox/pull/6) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+3. ❌ Closed PR [#2](https://github.com/jooncco/genai-sandbox/pull/2) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+4. ❌ Closed PR [#3](https://github.com/jooncco/genai-sandbox/pull/3) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+5. ❌ Closed PR [#5](https://github.com/jooncco/genai-sandbox/pull/5) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+6. ❌ Closed PR [#1](https://github.com/jooncco/genai-sandbox/pull/1) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+7. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)
+8. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
 9. ✌️ Released [v0.1.0 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
 10. ⭐ Starred [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 <!--RECENT_ACTIVITY:end-->

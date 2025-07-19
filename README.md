@@ -41,7 +41,7 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)
+1. ⭐ Starred [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
 2. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
 3. ❌ Closed PR [#2](https://github.com/jooncco/genai-sandbox/pull/2) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
 4. ❌ Closed PR [#3](https://github.com/jooncco/genai-sandbox/pull/3) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)

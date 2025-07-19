@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br/>
-  It's <b>Daniel</b>.<br/>
-  I got several aliases, and <b>jooncco</b> is one of them.<br/>
-  Check out my activities you might like:<br/><br/>
+  Hey, I’m <b>Daniel</b> — <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br/>
+  Some folks know me as <b>jooncco</b>.<br/>
+  I go by a few names, but everything I do connects back to one thing: building things that matter.<br/>
+  Take a look around — you might find something that sparks your interest:<br/><br/>
   <a href="https://jooncco.me">
     <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.me&style=flat-square&up_color=9cf&up_message=jooncco.me&url=https://jooncco.me">
   </a><br/>

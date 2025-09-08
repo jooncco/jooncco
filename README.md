@@ -41,7 +41,7 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jooncco/momentum-scanner](https://github.com/jooncco/momentum-scanner)
+1. ⭐ Starred [jesse-ai/jesse](https://github.com/jesse-ai/jesse)
 2. ⭐ Starred [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
 3. ❌ Closed PR [#2](https://github.com/jooncco/genai-sandbox/pull/2) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
 4. ❌ Closed PR [#3](https://github.com/jooncco/genai-sandbox/pull/3) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)

@@ -41,10 +41,10 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.0.3](https://github.com/jooncco/cash-log/releases/tag/v0.0.3) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
-2. ⭐ Starred [devfloor9/engineering-playbook](https://github.com/devfloor9/engineering-playbook)
-3. ❌ Closed PR [#2](https://github.com/jooncco/genai-sandbox/pull/2) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
-4. ❌ Closed PR [#3](https://github.com/jooncco/genai-sandbox/pull/3) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+1. ⭐ Starred [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)
+2. ⭐ Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+3. ✌️ Released [v0.0.3](https://github.com/jooncco/cash-log/releases/tag/v0.0.3) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
+4. ⭐ Starred [devfloor9/engineering-playbook](https://github.com/devfloor9/engineering-playbook)
 5. ❌ Closed PR [#5](https://github.com/jooncco/genai-sandbox/pull/5) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
 6. ❌ Closed PR [#1](https://github.com/jooncco/genai-sandbox/pull/1) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
 7. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)

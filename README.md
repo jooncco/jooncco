@@ -41,12 +41,12 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jooncco/mcp-servers](https://github.com/jooncco/mcp-servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
-2. ⭐ Starred [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)
-3. ⭐ Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
-4. ✌️ Released [v0.0.3](https://github.com/jooncco/cash-log/releases/tag/v0.0.3) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
-5. ⭐ Starred [devfloor9/engineering-playbook](https://github.com/devfloor9/engineering-playbook)
-6. ❌ Closed PR [#1](https://github.com/jooncco/genai-sandbox/pull/1) in [jooncco/genai-sandbox](https://github.com/jooncco/genai-sandbox)
+1. ✌️ Released [v0.0.4](https://github.com/jooncco/cash-log/releases/tag/v0.0.4) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
+2. 🔱 Forked [jooncco/mcp-servers](https://github.com/jooncco/mcp-servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+3. ⭐ Starred [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)
+4. ⭐ Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+5. ✌️ Released [v0.0.3](https://github.com/jooncco/cash-log/releases/tag/v0.0.3) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
+6. ⭐ Starred [devfloor9/engineering-playbook](https://github.com/devfloor9/engineering-playbook)
 7. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)
 8. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
 9. ✌️ Released [v0.1.0 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)

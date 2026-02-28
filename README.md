@@ -41,13 +41,13 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.0.4](https://github.com/jooncco/cash-log/releases/tag/v0.0.4) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
-2. 🔱 Forked [jooncco/mcp-servers](https://github.com/jooncco/mcp-servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
-3. ⭐ Starred [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)
-4. ⭐ Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
-5. ✌️ Released [v0.0.3](https://github.com/jooncco/cash-log/releases/tag/v0.0.3) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
-6. ⭐ Starred [devfloor9/engineering-playbook](https://github.com/devfloor9/engineering-playbook)
-7. ❌ Closed PR [#1](https://github.com/jooncco/temp/pull/1) in [jooncco/temp](https://github.com/jooncco/temp)
+1. ✌️ Released [v0.0.5](https://github.com/jooncco/cash-log/releases/tag/v0.0.5) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
+2. ✌️ Released [v0.0.4](https://github.com/jooncco/cash-log/releases/tag/v0.0.4) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
+3. 🔱 Forked [jooncco/mcp-servers](https://github.com/jooncco/mcp-servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+4. ⭐ Starred [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)
+5. ⭐ Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+6. ✌️ Released [v0.0.3](https://github.com/jooncco/cash-log/releases/tag/v0.0.3) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
+7. ⭐ Starred [devfloor9/engineering-playbook](https://github.com/devfloor9/engineering-playbook)
 8. 📔 Created new repository [jooncco/temp](https://github.com/jooncco/temp)
 9. ✌️ Released [v0.1.0 RELEASE](https://github.com/jooncco/about-jooncco/releases/tag/v0.1.0) in [jooncco/about-jooncco](https://github.com/jooncco/about-jooncco)
 10. ⭐ Starred [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)

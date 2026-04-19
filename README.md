@@ -41,7 +41,7 @@
 ### ⚡ Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.0](https://github.com/jooncco/cash-log/releases/tag/v1.0.0) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
+1. ✌️ Released [v1.1.0 RELEASE](https://github.com/jooncco/cash-log/releases/tag/v1.1.0) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
 2. ✌️ Released [v0.0.5](https://github.com/jooncco/cash-log/releases/tag/v0.0.5) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
 3. ✌️ Released [v0.0.4](https://github.com/jooncco/cash-log/releases/tag/v0.0.4) in [jooncco/cash-log](https://github.com/jooncco/cash-log)
 4. 🔱 Forked [jooncco/mcp-servers](https://github.com/jooncco/mcp-servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
